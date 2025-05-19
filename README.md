@@ -6,7 +6,7 @@
 ## Datos
  Genoma de referencia: https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_022201045.2/
 > 
- RNA-seq: https://www.ncbi.nlm.nih.gov/nuccore/?from_uid=12122341&linkname=assembly_nuccore_refseq
+ BioProjects: PRJNA862483 & PRJNA703546
 >
  Anotación: https://www.ncbi.nlm.nih.gov/datasets/gene/GCF_022201045.2/
 
