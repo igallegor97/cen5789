@@ -12,14 +12,14 @@
 
 ## Metodología
 > 1. Descarga y preparación de datos
-> 2. Control de calidad
->    - fastQC
->    - multiQC
->    - trimmomatic
-> 3. Alineamiento
->    - Index con hisat2
->    - Alineamiento con hisat2
->    - Conversión de formatos con samtools
+> ~~2. Control de calidad~~
+>  ~~- fastQC~~
+>    ~~- multiQC~~
+>    ~~- trimmomatic~~
+> ~~3. Alineamiento~~
+>    ~~- Index con hisat2~~
+>    ~~- Alineamiento con hisat2~~
+>    ~~- Conversión de formatos con samtools~~
 > 4. Cuantificación de expresión
 >    - Salmon
 > 5. Análisis de expresión diferencial
